@@ -1,5 +1,5 @@
                                                      - 👋 I’m Yoshi
-                                                     - 👀 I’m interested in Game dev, Web dev, go, python
+                                                     - 👀 I’m interested in App dev, Web dev, go, typescript
                                                      - 🌱 I’m currently learning be a good guy
                                                      - 📫 How to reach me (Discord)[https://discord.gg/mexicodev]
 
