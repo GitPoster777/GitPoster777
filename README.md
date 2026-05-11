@@ -1,11 +1,12 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Terminal+first%2C+always;Building+the+future;BLOODSMARTT)](https://git.io/typing-svg)
+   
    Hi! I'm Mac 🔭 
 
       I’m currently working on improving my dev skills!
       I'm Tryng to be a better person
-      I’m learning Python and becoming a better developer every day
+      I’m learning and becoming a better developer every day
       I look forward to collaborating on future projects
 
 
