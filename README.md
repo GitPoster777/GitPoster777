@@ -10,9 +10,6 @@
       I look forward to collaborating on future projects
 
 
-<!-- <div align="center"> -->
-<!--   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" /> -->
-<!-- </div> -->
 
 
 <div align="center">
