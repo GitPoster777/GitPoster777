@@ -21,9 +21,6 @@
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
 </div>
 
-
-<img src="https://api.visitorbadge.io/api/visitors?path=theamit-969&labelColor=%230d1117&countColor=%232d333b&style=for-the-badge&labelStyle=upper" />
-
 </div>
 
 
