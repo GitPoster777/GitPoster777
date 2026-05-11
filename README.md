@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-   <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+   <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=Java&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
 </div>
